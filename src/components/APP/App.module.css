@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.section {
+  width: 400px;
+  border: 2px solid #0000000f;
+}
+
+.title,
+.subtitle {
+  margin-bottom: 0;
+  color: black;
+  text-align: center;
+}

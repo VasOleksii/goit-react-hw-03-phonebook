@@ -1,0 +1,16 @@
+.title {
+  display: flex;
+  flex-direction: column;
+  padding: 5px 40px;
+}
+
+.input {
+  margin: 10px 0;
+  padding: 10px 15px;
+  border: 1px solid orange;
+  border-radius: 5px;
+}
+
+.input:focus {
+  outline: 2px solid orange;
+}
